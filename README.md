@@ -43,7 +43,7 @@ Git | MLflow | Google Colab | Microsoft Office | MySQL
 
 ---
 ## 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/vikas-yadav-103650406](https://www.linkedin.com/in/vikas-yadav-103650406/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-yadav-103650406/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vy251048@gmail.com)  
 
 ---
